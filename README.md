@@ -4,6 +4,9 @@
 - Vite.js tooling.
 - Netlify Edge Functions.
 - Prettier code formatter.
+- Prettier code formatter.
+- Prettier code formatter.
+- Prettier code formatter.
 
 ## Development Builds
 
